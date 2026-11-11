@@ -1,0 +1,14 @@
+venv/
+venv_new/
+__pycache__/
+*.pyc
+*.zip
+.env
+.ipynb_checkpoints/
+data/
+dataset.csv
+dataset_backup.csv
+evidence.csv
+evidence_dev.csv
+vector_index.bin
+vector_index_dev.json
