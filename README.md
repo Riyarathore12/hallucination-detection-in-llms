@@ -4,6 +4,10 @@
 An evidence-based, multi-agent system designed to identify and assess potentially hallucinated claims in LLM-generated answers.
 
 The system extracts factual claims, retrieves relevant evidence, verifies claims and identifies cases requiring manual review.
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/68833db9-97a1-4a0b-8ae0-9350e50acc7d" />
+
+<img width="1672" height="941" alt="image" src="https://github.com/user-attachments/assets/05a8c0a8-1d1d-4850-aa6d-94fba092c084" />
+
 
 ## Architecture
 
